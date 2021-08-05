@@ -1,0 +1,11 @@
+__pycache__/
+src/data/*.json
+*.json
+venv/
+*.pyc
+xlsx/*.xlsx
+s.vim
+log.txt
+png/*
+v0/
+*.egg-info/
